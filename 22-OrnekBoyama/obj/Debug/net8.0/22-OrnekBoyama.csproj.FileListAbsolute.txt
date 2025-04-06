@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\bin\Debug\net8.0\22-OrnekBoyama.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\bin\Debug\net8.0\22-OrnekBoyama.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\bin\Debug\net8.0\22-OrnekBoyama.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\bin\Debug\net8.0\22-OrnekBoyama.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\bin\Debug\net8.0\22-OrnekBoyama.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\obj\Debug\net8.0\22-OrnekBoyama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\obj\Debug\net8.0\22-OrnekBoyama.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\obj\Debug\net8.0\22-OrnekBoyama.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\obj\Debug\net8.0\22-OrnekBoyama.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\obj\Debug\net8.0\22-OrnekBoyama.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\obj\Debug\net8.0\refint\22-OrnekBoyama.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\obj\Debug\net8.0\22-OrnekBoyama.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\obj\Debug\net8.0\22-OrnekBoyama.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\22-OrnekBoyama\obj\Debug\net8.0\ref\22-OrnekBoyama.dll

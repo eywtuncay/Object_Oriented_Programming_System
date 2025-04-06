@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kitaplar>
+
+	<Kitap ID="1">
+		<KitapAdi>Kitap1</KitapAdi>
+		<Yazar>Yazar1</Yazar>
+		<YayinEvi>YayinEvi1</YayinEvi>
+		<Fiyat>10</Fiyat>
+	</Kitap>
+
+	<Kitap ID="2">
+		<KitapAdi>Kitap2</KitapAdi>
+		<Yazar>Yazar2</Yazar>
+		<YayinEvi>YayinEvi2</YayinEvi>
+		<Fiyat>20</Fiyat>
+	</Kitap>
+	
+	<Kitap ID="3">
+		<KitapAdi>Kitap3</KitapAdi>
+		<Yazar>Yazar3</Yazar>
+		<YayinEvi>YayinEvi3</YayinEvi>
+		<Fiyat>30</Fiyat>
+	</Kitap>
+	
+	
+
+</Kitaplar>

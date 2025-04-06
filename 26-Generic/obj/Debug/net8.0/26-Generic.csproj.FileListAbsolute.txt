@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\bin\Debug\net8.0\26-Generic.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\bin\Debug\net8.0\26-Generic.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\bin\Debug\net8.0\26-Generic.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\bin\Debug\net8.0\26-Generic.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\bin\Debug\net8.0\26-Generic.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\obj\Debug\net8.0\26-Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\obj\Debug\net8.0\26-Generic.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\obj\Debug\net8.0\26-Generic.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\obj\Debug\net8.0\26-Generic.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\obj\Debug\net8.0\26-Generic.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\obj\Debug\net8.0\refint\26-Generic.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\obj\Debug\net8.0\26-Generic.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\obj\Debug\net8.0\26-Generic.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\26-Generic\obj\Debug\net8.0\ref\26-Generic.dll

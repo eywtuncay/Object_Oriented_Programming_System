@@ -1,0 +1,17 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\bin\Debug\net8.0\34-xml.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\bin\Debug\net8.0\34-xml.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\bin\Debug\net8.0\34-xml.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\bin\Debug\net8.0\34-xml.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\bin\Debug\net8.0\34-xml.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\34-xml.csproj.AssemblyReference.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\34-xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\34-xml.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\34-xml.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\34-xml.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\34-xml.csproj.Up2Date
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\34-xml.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\refint\34-xml.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\34-xml.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\34-xml.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\34-xml\obj\Debug\net8.0\ref\34-xml.dll

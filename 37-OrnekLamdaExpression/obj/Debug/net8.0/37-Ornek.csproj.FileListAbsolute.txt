@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\bin\Debug\net8.0\37-Ornek.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\bin\Debug\net8.0\37-Ornek.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\bin\Debug\net8.0\37-Ornek.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\bin\Debug\net8.0\37-Ornek.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\bin\Debug\net8.0\37-Ornek.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\obj\Debug\net8.0\37-Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\obj\Debug\net8.0\37-Ornek.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\obj\Debug\net8.0\37-Ornek.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\obj\Debug\net8.0\37-Ornek.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\obj\Debug\net8.0\37-Ornek.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\obj\Debug\net8.0\refint\37-Ornek.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\obj\Debug\net8.0\37-Ornek.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\obj\Debug\net8.0\37-Ornek.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\37-Ornek\obj\Debug\net8.0\ref\37-Ornek.dll

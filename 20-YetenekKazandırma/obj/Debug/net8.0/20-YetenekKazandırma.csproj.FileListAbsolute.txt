@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\bin\Debug\net8.0\20-YetenekKazandırma.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\bin\Debug\net8.0\20-YetenekKazandırma.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\bin\Debug\net8.0\20-YetenekKazandırma.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\bin\Debug\net8.0\20-YetenekKazandırma.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\bin\Debug\net8.0\20-YetenekKazandırma.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\obj\Debug\net8.0\20-YetenekKazandırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\obj\Debug\net8.0\20-YetenekKazandırma.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\obj\Debug\net8.0\20-YetenekKazandırma.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\obj\Debug\net8.0\20-YetenekKazandırma.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\obj\Debug\net8.0\20-YetenekKazandırma.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\obj\Debug\net8.0\refint\20-YetenekKazandırma.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\obj\Debug\net8.0\20-YetenekKazandırma.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\obj\Debug\net8.0\20-YetenekKazandırma.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\20-YetenekKazandırma\obj\Debug\net8.0\ref\20-YetenekKazandırma.dll

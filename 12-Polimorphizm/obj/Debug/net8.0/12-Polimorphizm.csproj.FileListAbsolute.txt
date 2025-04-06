@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\bin\Debug\net8.0\12-Polimorphizm.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\bin\Debug\net8.0\12-Polimorphizm.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\bin\Debug\net8.0\12-Polimorphizm.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\bin\Debug\net8.0\12-Polimorphizm.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\bin\Debug\net8.0\12-Polimorphizm.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\obj\Debug\net8.0\12-Polimorphizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\obj\Debug\net8.0\12-Polimorphizm.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\obj\Debug\net8.0\12-Polimorphizm.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\obj\Debug\net8.0\12-Polimorphizm.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\obj\Debug\net8.0\12-Polimorphizm.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\obj\Debug\net8.0\refint\12-Polimorphizm.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\obj\Debug\net8.0\12-Polimorphizm.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\obj\Debug\net8.0\12-Polimorphizm.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\12-Polimorphizm\obj\Debug\net8.0\ref\12-Polimorphizm.dll

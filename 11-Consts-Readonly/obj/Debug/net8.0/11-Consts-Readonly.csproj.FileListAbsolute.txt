@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\bin\Debug\net8.0\11-Consts-Readonly.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\bin\Debug\net8.0\11-Consts-Readonly.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\bin\Debug\net8.0\11-Consts-Readonly.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\bin\Debug\net8.0\11-Consts-Readonly.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\bin\Debug\net8.0\11-Consts-Readonly.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\obj\Debug\net8.0\11-Consts-Readonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\obj\Debug\net8.0\11-Consts-Readonly.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\obj\Debug\net8.0\11-Consts-Readonly.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\obj\Debug\net8.0\11-Consts-Readonly.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\obj\Debug\net8.0\11-Consts-Readonly.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\obj\Debug\net8.0\refint\11-Consts-Readonly.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\obj\Debug\net8.0\11-Consts-Readonly.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\obj\Debug\net8.0\11-Consts-Readonly.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\11-Consts-Readonly\obj\Debug\net8.0\ref\11-Consts-Readonly.dll

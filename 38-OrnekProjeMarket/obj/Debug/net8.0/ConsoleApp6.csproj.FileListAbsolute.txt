@@ -1,0 +1,14 @@
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.exe
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.deps.json
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.runtimeconfig.json
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.dll
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.pdb
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfo.cs
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.dll
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\obj\Debug\net8.0\refint\ConsoleApp6.dll
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.pdb
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.genruntimeconfig.cache
+C:\Eğitim\HalkBank\YY2\13_03_2025\OOP\ConsoleApp6\obj\Debug\net8.0\ref\ConsoleApp6.dll

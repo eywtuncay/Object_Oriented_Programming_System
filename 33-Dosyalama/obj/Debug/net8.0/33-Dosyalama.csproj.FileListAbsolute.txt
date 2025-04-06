@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\bin\Debug\net8.0\33-Dosyalama.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\bin\Debug\net8.0\33-Dosyalama.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\bin\Debug\net8.0\33-Dosyalama.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\bin\Debug\net8.0\33-Dosyalama.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\bin\Debug\net8.0\33-Dosyalama.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\obj\Debug\net8.0\33-Dosyalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\obj\Debug\net8.0\33-Dosyalama.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\obj\Debug\net8.0\33-Dosyalama.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\obj\Debug\net8.0\33-Dosyalama.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\obj\Debug\net8.0\33-Dosyalama.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\obj\Debug\net8.0\refint\33-Dosyalama.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\obj\Debug\net8.0\33-Dosyalama.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\obj\Debug\net8.0\33-Dosyalama.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\33-Dosyalama\obj\Debug\net8.0\ref\33-Dosyalama.dll

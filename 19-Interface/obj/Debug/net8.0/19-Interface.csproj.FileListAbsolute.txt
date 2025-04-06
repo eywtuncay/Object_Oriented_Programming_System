@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\bin\Debug\net8.0\19-Interface.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\bin\Debug\net8.0\19-Interface.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\bin\Debug\net8.0\19-Interface.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\bin\Debug\net8.0\19-Interface.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\bin\Debug\net8.0\19-Interface.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\obj\Debug\net8.0\19-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\obj\Debug\net8.0\19-Interface.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\obj\Debug\net8.0\19-Interface.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\obj\Debug\net8.0\19-Interface.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\obj\Debug\net8.0\19-Interface.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\obj\Debug\net8.0\refint\19-Interface.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\obj\Debug\net8.0\19-Interface.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\obj\Debug\net8.0\19-Interface.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\19-Interface\obj\Debug\net8.0\ref\19-Interface.dll

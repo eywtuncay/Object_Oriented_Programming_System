@@ -1,0 +1,26 @@
+﻿[
+  {
+    "ID": "123",
+    "Ad": "Tuncay",
+    "Yazar": "Hayatım",
+    "Fiyat": "123"
+  },
+
+  {
+    "ID": "341",
+    "Ad": "Suç ve Ceza",
+    "Yazar": "Dostoyevski",
+    "Fiyat": "432"
+  },
+
+  {
+    "ID": "129",
+    "Ad": "Cehennem",
+    "Yazar": "Dan Brown",
+    "Fiyat": "546"
+  }
+
+]
+
+
+

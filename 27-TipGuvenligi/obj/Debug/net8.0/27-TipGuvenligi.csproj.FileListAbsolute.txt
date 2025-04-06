@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\bin\Debug\net8.0\27-TipGuvenligi.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\bin\Debug\net8.0\27-TipGuvenligi.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\bin\Debug\net8.0\27-TipGuvenligi.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\bin\Debug\net8.0\27-TipGuvenligi.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\bin\Debug\net8.0\27-TipGuvenligi.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\obj\Debug\net8.0\27-TipGuvenligi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\obj\Debug\net8.0\27-TipGuvenligi.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\obj\Debug\net8.0\27-TipGuvenligi.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\obj\Debug\net8.0\27-TipGuvenligi.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\obj\Debug\net8.0\27-TipGuvenligi.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\obj\Debug\net8.0\refint\27-TipGuvenligi.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\obj\Debug\net8.0\27-TipGuvenligi.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\obj\Debug\net8.0\27-TipGuvenligi.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\27-TipGuvenligi\obj\Debug\net8.0\ref\27-TipGuvenligi.dll

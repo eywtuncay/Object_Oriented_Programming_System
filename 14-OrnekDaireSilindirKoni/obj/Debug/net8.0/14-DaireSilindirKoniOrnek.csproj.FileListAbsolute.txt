@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\bin\Debug\net8.0\14-DaireSilindirKoniOrnek.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\bin\Debug\net8.0\14-DaireSilindirKoniOrnek.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\bin\Debug\net8.0\14-DaireSilindirKoniOrnek.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\bin\Debug\net8.0\14-DaireSilindirKoniOrnek.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\bin\Debug\net8.0\14-DaireSilindirKoniOrnek.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\obj\Debug\net8.0\14-DaireSilindirKoniOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\obj\Debug\net8.0\14-DaireSilindirKoniOrnek.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\obj\Debug\net8.0\14-DaireSilindirKoniOrnek.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\obj\Debug\net8.0\14-DaireSilindirKoniOrnek.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\obj\Debug\net8.0\14-DaireSilindirKoniOrnek.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\obj\Debug\net8.0\refint\14-DaireSilindirKoniOrnek.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\obj\Debug\net8.0\14-DaireSilindirKoniOrnek.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\obj\Debug\net8.0\14-DaireSilindirKoniOrnek.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\14-DaireSilindirKoniOrnek\obj\Debug\net8.0\ref\14-DaireSilindirKoniOrnek.dll

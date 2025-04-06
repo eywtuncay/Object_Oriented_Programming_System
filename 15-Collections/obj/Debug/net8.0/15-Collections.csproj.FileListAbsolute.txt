@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\bin\Debug\net8.0\15-Collections.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\bin\Debug\net8.0\15-Collections.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\bin\Debug\net8.0\15-Collections.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\bin\Debug\net8.0\15-Collections.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\bin\Debug\net8.0\15-Collections.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\obj\Debug\net8.0\15-Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\obj\Debug\net8.0\15-Collections.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\obj\Debug\net8.0\15-Collections.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\obj\Debug\net8.0\15-Collections.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\obj\Debug\net8.0\15-Collections.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\obj\Debug\net8.0\refint\15-Collections.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\obj\Debug\net8.0\15-Collections.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\obj\Debug\net8.0\15-Collections.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\15-Collections\obj\Debug\net8.0\ref\15-Collections.dll

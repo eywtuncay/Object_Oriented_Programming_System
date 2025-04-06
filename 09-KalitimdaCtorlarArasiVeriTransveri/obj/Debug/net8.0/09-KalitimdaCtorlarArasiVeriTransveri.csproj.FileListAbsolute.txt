@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\bin\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\bin\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\bin\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\bin\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\bin\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\obj\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\obj\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\obj\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\obj\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\obj\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\obj\Debug\net8.0\refint\09-KalitimdaCtorlarArasiVeriTransveri.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\obj\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\obj\Debug\net8.0\09-KalitimdaCtorlarArasiVeriTransveri.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\OOP\09-KalitimdaCtorlarArasiVeriTransveri\obj\Debug\net8.0\ref\09-KalitimdaCtorlarArasiVeriTransveri.dll

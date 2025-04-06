@@ -1,0 +1,48 @@
+﻿
+CTOR - CONSTRUACTOR
+Bir sınıf RAM'de oluşturulurken ilk çalışan metotdur.
+
+Ctor yazma
+1) Sınıf ile aynı isimde olmalı
+2) Geri dönüş tipi yoktur, yazılmaz. (return type)
+
+
+İmzası farklı olmak kaydıyla birden fazla ctor yazılabilir.
+Default Ctor parametresi olmayan ctor'lara denir.
+	Eğer biz parametrik ctor yazarsak default ctor oluşturulmaz.
+	Yazmazsak compailer her Class için otomatik olarak default ctor oluşturur.
+
+Neden ctor yazarız?
+1) Nesne oluşturulurken başlangıç değerlerini vermek için. Artık kullanmıyoruz. object initializers kullanırlız.
+2) Class oluşturulurken ilk yapılmasını istediğimiz işler için kullanılır.
+3) Kullanıcıları belirli parametrelere zorlamak için.
+
+
+Primary ctor...
+
+
+Bir sınıfın kendi ctor'ları arasında veri transferi yapmak için "this" kullanılır.
+Kalıtım ile ctor arası veri transferi yapılacaksa "base" kullanılır.
+
+
+
+--------------------------------------------------------------------------
+
+
+-- Destructure(dectro)
+Bir sınıf RAM'den silinirken en son çalışan metottdur.
+
+Bir sınıfta bir tane dector olabilir...
+Kullanırken dikkatli olmak gerekir. (PERFORMANS !!!!!)
+
+IDisposable kullanılması tavsiye edilir.
+
+
+
+
+
+Class Member
+field, property, metot, ctor vs. vs. ...
+
+
+

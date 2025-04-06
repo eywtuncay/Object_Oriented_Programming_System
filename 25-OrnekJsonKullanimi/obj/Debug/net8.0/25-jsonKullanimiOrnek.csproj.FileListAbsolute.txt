@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\bin\Debug\net8.0\25-jsonKullanimiOrnek.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\bin\Debug\net8.0\25-jsonKullanimiOrnek.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\bin\Debug\net8.0\25-jsonKullanimiOrnek.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\bin\Debug\net8.0\25-jsonKullanimiOrnek.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\bin\Debug\net8.0\25-jsonKullanimiOrnek.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\obj\Debug\net8.0\25-jsonKullanimiOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\obj\Debug\net8.0\25-jsonKullanimiOrnek.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\obj\Debug\net8.0\25-jsonKullanimiOrnek.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\obj\Debug\net8.0\25-jsonKullanimiOrnek.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\obj\Debug\net8.0\25-jsonKullanimiOrnek.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\obj\Debug\net8.0\refint\25-jsonKullanimiOrnek.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\obj\Debug\net8.0\25-jsonKullanimiOrnek.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\obj\Debug\net8.0\25-jsonKullanimiOrnek.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\25-jsonKullanimiOrnek\obj\Debug\net8.0\ref\25-jsonKullanimiOrnek.dll

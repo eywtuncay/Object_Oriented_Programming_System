@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\bin\Debug\net8.0\31-Koleksiyonlar.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\bin\Debug\net8.0\31-Koleksiyonlar.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\bin\Debug\net8.0\31-Koleksiyonlar.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\bin\Debug\net8.0\31-Koleksiyonlar.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\bin\Debug\net8.0\31-Koleksiyonlar.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\obj\Debug\net8.0\31-Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\obj\Debug\net8.0\31-Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\obj\Debug\net8.0\31-Koleksiyonlar.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\obj\Debug\net8.0\31-Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\obj\Debug\net8.0\31-Koleksiyonlar.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\obj\Debug\net8.0\refint\31-Koleksiyonlar.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\obj\Debug\net8.0\31-Koleksiyonlar.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\obj\Debug\net8.0\31-Koleksiyonlar.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\OOP\31-Koleksiyonlar\obj\Debug\net8.0\ref\31-Koleksiyonlar.dll
